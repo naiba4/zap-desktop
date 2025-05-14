@@ -328,7 +328,7 @@
     "bignumber.js": "9.0.1",
     "bip21": "2.0.3",
     "bip39-en": "1.1.1",
-    "bitcoinjs-lib": "5.1.10",
+    "bitcoinjs-lib": "6.0.0",
     "bolt07": "1.6.0",
     "bolt11": "1.2.7",
     "coininfo": "https://github.com/LN-Zap/coininfo#d7ac7be9c9c4ee74dada187f7762a55887a9c6ca",
@@ -365,9 +365,9 @@
     "react-hot-loader": "4.12.21",
     "react-intl": "4.5.1",
     "react-intl-redux": "2.2.0",
-    "react-redux": "7.2.0",
-    "react-router-dom": "5.2.0",
-    "react-spring": "8.0.27",
+    "react-redux": "9.0.0",
+    "react-router-dom": "6.0.0",
+    "react-spring": "9.0.0",
     "react-textfit": "1.1.0",
     "react-virtualized": "9.21.2",
     "rebass": "4.0.7",
@@ -383,7 +383,7 @@
     "tildify": "2.0.0",
     "untildify": "4.0.0",
     "validator": "13.1.17",
-    "yup": "0.28.3"
+    "yup": "1.0.0"
   },
   "main": "./dist/main.js"
 }
